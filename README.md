@@ -14,7 +14,7 @@
     - pastikan laragon sudah terpasang
     - klik start all
     - buka vs code 
-    - folder yang akan dijalankan
+    - buka folder yang akan dijalankan
     - klik ctrl + ` untuk membuka terminal lalu ketikkan : php -S localhost:8000
     - ctrl + klik pada link yang muncul
 
