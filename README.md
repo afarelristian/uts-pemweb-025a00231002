@@ -1,14 +1,17 @@
-1. Identitas Mahasiswa
-    Nama: Muhammad Afarel Ristian
-    NIM: 025A00231002
-    Program Studi: Informatika
-    Mata Kuliah: Pemrograman Web
-    Universitas: Universitas Tiga Serangkai
+# UTS-pemweb-025a00231002
+# Hahu Jebredd
 
-2. Deskripsi Proyek
+## 1. Identitas Mahasiswa
+    **Nama:** Muhammad Afarel Ristian
+    **NIM:** 025A00231002
+    **Program Studi:** Informatika
+    **Mata Kuliah:** Pemrograman Web
+    **Universitas:** Universitas Tiga Serangkai
+
+## 2. Deskripsi Proyek
     Hahu Jebredd adalah website katalog menu untuk usaha kuliner keluarga yang menjual tahu dengan isian pedas dan mi pedas. Pengunjung dapat melihat daftar menu yang bisa difilter berdasarkan kategori. Website bersifat tampilan saja (tanpa pemesanan). Seluruh harga adalah harga simulasi. Produk yang ada di website ini merupakan produk asli keluarga yang sedang berjalan sekarang
     
-3. Cara menjalankan di localhost
+## 3. Cara menjalankan di localhost
     - pastikan laragon sudah terpasang
     - klik start all
     - buka vs code 
@@ -16,7 +19,7 @@
     - klik ctrl + ` untuk membuka terminal lalu ketikkan : php -S localhost:8000
     - ctrl + klik pada link yang muncul
 
-4. Daftar fitur
+## 4. Daftar fitur
     - index.php merupakan beranda website yang berisi tentang pengenalan usaha Hahu Jebredd
     - katalog.php menampilkan seluruh menu yang tersedia 
     - data.php digunakan untuk menyimpan data menu
@@ -25,7 +28,7 @@
     - assets berisikan foto - foto yang dpakai pada website
     - screenshoots berisi tangkapan layar website yang meliputi beranda dan katalog 
 
-5. Fungsi Array Bawaan PHP
+## 5. Fungsi Array Bawaan PHP
     - count() — menghitung jumlah menu dan kategori.
     - array_column() — mengambil kolom kategori dan harga dari data menu.
     - array_unique() — membuat daftar kategori tanpa duplikat.
@@ -36,10 +39,10 @@
     - min() — mencari harga termurah.
     - implode() — menggabungkan label harga termurah menjadi satu teks.
 
-6. Tangkapan Layar
+## 6. Tangkapan Layar
     ![alt text](/screenshoots/beranda.png) ![alt text](/screenshoots/katalog.png)
 
-7. Referensi dan Penggunaan AI
+## 7. Referensi dan Penggunaan AI
     - PHP Manual: https://www.php.net/manual/en/
     - MDN Web Docs: https://developer.mozilla.org/
 
