@@ -1,11 +1,11 @@
 #  Hahu Jebredd - UTS-pemweb-025a00231002
 
 1. Identitas Mahasiswa
-    **Nama:** Muhammad Afarel Ristian
-    **NIM:** 025A00231002
-    **Program Studi:** Informatika
-    **Mata Kuliah:** Pemrograman Web
-    **Universitas:** Universitas Tiga Serangkai
+    - **Nama:** Muhammad Afarel Ristian
+    - **NIM:** 025A00231002
+    - **Program Studi:** Informatika
+    - **Mata Kuliah:** Pemrograman Web
+    - **Universitas:** Universitas Tiga Serangkai
 
 2. Deskripsi Proyek
     Hahu Jebredd adalah website katalog menu untuk usaha kuliner keluarga yang menjual tahu dengan isian pedas dan mi pedas. Pengunjung dapat melihat daftar menu yang bisa difilter berdasarkan kategori. Website bersifat tampilan saja (tanpa pemesanan). Seluruh harga adalah harga simulasi. Produk yang ada di website ini merupakan produk asli keluarga yang sedang berjalan sekarang
