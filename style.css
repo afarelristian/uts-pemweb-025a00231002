@@ -18,7 +18,7 @@ body {
 }
 a { color: inherit; text-decoration: none; }
 .container { width: min(1120px, calc(100% - 40px)); margin-inline: auto; }
-.muted, .spice-label, .stats span { color: var(--muted); font-size: 0.85rem; }
+.muted, .pedas-label, .stats span { color: var(--muted); font-size: 0.85rem; }
 
 .judul {
     position: sticky;
@@ -209,13 +209,13 @@ a { color: inherit; text-decoration: none; }
     font-size: 0.75rem; 
     font-weight: 700; 
 }
-.tag.available { 
+.tag.ada { 
     background: #203c2a; color: var(--green); }
-.tag.unavailable { 
+.tag.takada { 
     background: #482723; 
     color: #ffb5a9; 
 }
-.price { 
+.harga { 
     margin-top: auto; 
     padding-top: 10px; font-size: 1.2rem; 
     font-weight: 800; 

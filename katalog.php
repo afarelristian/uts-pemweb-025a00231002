@@ -81,14 +81,14 @@ foreach ($daftarKategori as $kategori) {
                     <div class="menu-card-top">
                         <span class="tag"><?= e($item['kategori']) ?></span>
                         <?php if ($item['tersedia']): ?>
-                            <span class="tag available">Tersedia</span>
+                            <span class="tag ada">Tersedia</span>
                         <?php else: ?>
-                            <span class="tag unavailable">Habis</span>
+                            <span class="tag takada">Habis</span>
                         <?php endif; ?>
                     </div>
                     <h3><?= e($item['nama']) ?></h3>
-                    <p class="spice-label"><?= e(labelPedas($item)) ?></p>
-                    <p class="price"><?= e(formatRupiah($item['harga'])) ?></p>
+                    <p class="pedas-label"><?= e(labelPedas($item)) ?></p>
+                    <p class="harga"><?= e(formatRupiah($item['harga'])) ?></p>
                 </article>
             <?php endforeach; ?>
 
